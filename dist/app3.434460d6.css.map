@@ -1,0 +1,1 @@
+{"mappings":"AAGA;;;;;;;;AAQA","sources":["src/app3.css"],"sourcesContent":["#app3{\n\n}\n#app3 .square{\n    border:1px solid grey;\n    margin-top: 10vw;\n    margin-left: 10vw;\n    width: 10vw;\n    height: 10vw;\n}\n\n#app3 .square.active{\n    transform:translateX(15vw);\n}"],"names":[],"version":3,"file":"app3.434460d6.css.map","sourceRoot":"/__parcel_source_root/"}

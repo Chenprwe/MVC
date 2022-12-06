@@ -1,0 +1,48 @@
+#app1 {
+  width: 50vw;
+  height: 50vh;
+  border: 1px solid red;
+}
+
+#app2 {
+  border: 1px solid #00f;
+}
+
+#app2 .tab-bar {
+  display: flex;
+}
+
+#app2 .tab-bar > li {
+  width: 50%;
+  border: 3px solid #000;
+}
+
+#app2 .tab-content > li {
+  display: none;
+}
+
+body > .page {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+body > .page > section {
+  width: 50vw;
+  height: 50vh;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:before, :after {
+  box-sizing: border-box;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+/*# sourceMappingURL=index.2d7055af.css.map */

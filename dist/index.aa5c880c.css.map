@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/app2.css"],"sourcesContent":["#app2 {\n  border: 1px solid blue;\n}\n#app2 .tab-bar {\n}\n\n#app2 .tab-content {\n}\n"],"names":[],"version":3,"file":"index.aa5c880c.css.map","sourceRoot":"/__parcel_source_root/"}
